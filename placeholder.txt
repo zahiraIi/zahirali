@@ -1,0 +1,20 @@
+## Images to Add to Your GitHub Profile
+
+1. **Profile Image**: You need to upload a profile photo and name it `profile.jpg` in your GitHub profile repository (zahirali/zahirali).
+
+2. **Header GIF**: The `header.gif` can be generated from the `header.svg` using an SVG to GIF converter online, or simply keep the SVG and change the README reference to `header.svg`.
+
+3. **Contribution Snake Animation**: The GitHub action we set up will generate this automatically once you push these changes to your repository.
+
+4. **3D Contribution Calendar**: Upload a GIF or image named `3d-contrib.gif` showing your GitHub Skyline, or you can replace this with a link to your Skyline directly.
+
+5. **WakaTime Stats**: To make this work, you need to:
+   - Install WakaTime plugin for your IDE
+   - Connect your GitHub account with WakaTime
+   - Update the username in the image URL
+
+6. **Spotify Integration**: You need to deploy a Vercel application for this feature to work. You can follow the guide at https://github.com/novatorem/novatorem to set it up.
+
+7. **GitHub Stats Integration**: The GitHub stats widgets will work automatically with your GitHub username (zahirali).
+
+Once you've uploaded these images to your repository, your README will be fully functional with all the animations and features! 

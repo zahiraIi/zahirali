@@ -1,0 +1,110 @@
+<svg width="100%" height="150" viewBox="0 0 1440 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="header-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E3A8A" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="text-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#60A5FA" />
+      <stop offset="50%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#60A5FA" />
+    </linearGradient>
+  </defs>
+  
+  <style>
+    .bg {
+      fill: url(#header-gradient);
+    }
+    
+    .code-line {
+      stroke: url(#text-gradient);
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-dasharray: 100;
+      stroke-dashoffset: 1000;
+      animation: dash 30s linear infinite;
+      opacity: 0.5;
+    }
+    
+    .code-line-2 {
+      animation-delay: 2s;
+    }
+    
+    .code-line-3 {
+      animation-delay: 4s;
+    }
+    
+    .code-line-4 {
+      animation-delay: 6s;
+    }
+    
+    .code-line-5 {
+      animation-delay: 8s;
+    }
+    
+    .code-line-6 {
+      animation-delay: 10s;
+    }
+    
+    .particle {
+      animation: float 8s ease-in-out infinite;
+      transform-origin: center;
+      opacity: 0.4;
+      fill: url(#text-gradient);
+    }
+    
+    .p1 { animation-delay: 0s; }
+    .p2 { animation-delay: 1s; }
+    .p3 { animation-delay: 2s; }
+    .p4 { animation-delay: 3s; }
+    .p5 { animation-delay: 4s; }
+    .p6 { animation-delay: 5s; }
+    
+    @keyframes dash {
+      0% {
+        stroke-dashoffset: 1000;
+      }
+      50% {
+        stroke-dashoffset: 0;
+      }
+      100% {
+        stroke-dashoffset: -1000;
+      }
+    }
+    
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0) translateX(0);
+      }
+      25% {
+        transform: translateY(-10px) translateX(10px);
+      }
+      50% {
+        transform: translateY(5px) translateX(-5px);
+      }
+      75% {
+        transform: translateY(-5px) translateX(-10px);
+      }
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect class="bg" width="100%" height="100%" rx="8" ry="8" />
+  
+  <!-- Code lines -->
+  <path class="code-line code-line-1" d="M100,30 H700" />
+  <path class="code-line code-line-2" d="M150,50 H650" />
+  <path class="code-line code-line-3" d="M200,70 H800" />
+  <path class="code-line code-line-4" d="M120,90 H750" />
+  <path class="code-line code-line-5" d="M180,110 H600" />
+  <path class="code-line code-line-6" d="M150,130 H700" />
+  
+  <!-- Floating particles -->
+  <circle class="particle p1" cx="900" cy="40" r="4" />
+  <circle class="particle p2" cx="950" cy="80" r="3" />
+  <circle class="particle p3" cx="1000" cy="30" r="5" />
+  <circle class="particle p4" cx="1050" cy="100" r="2" />
+  <circle class="particle p5" cx="1100" cy="60" r="4" />
+  <circle class="particle p6" cx="1150" cy="120" r="3" />
+</svg> 
