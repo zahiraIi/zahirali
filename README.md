@@ -12,7 +12,8 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <br><br>
-  <img src="https://github.com/zahirali/zahirali/blob/main/profile.jpg" width="200" style="border-radius:50%" />
+  <!-- You'll need to add a profile image to your repository -->
+  <!-- <img src="https://github.com/zahirali/zahirali/blob/main/profile.jpg" width="200" style="border-radius:50%" /> -->
   <br><br>
   <h3 align="center">
     math & cs @ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" width="30px" style="vertical-align:middle"> UCSD
@@ -20,11 +21,7 @@
 </div>
 
 <!-- ABOUT ME SECTION -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahirali&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=zahirali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-</div>
-
+<!-- Removing stats section as requested -->
 <h2 align="center">About Me</h2>
 
 <p align="left">
@@ -42,12 +39,7 @@
 <h2 align="center">My Coding Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahirali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
-  <br><br>
-  
-  <!-- WAKATIME STATS IF YOU HAVE IT SET UP -->
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zahirali&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <!-- Removing stats and wakatime as they aren't working -->
 </div>
 
 <!-- CONTRIBUTIONS ANIMATION -->
@@ -116,28 +108,6 @@
   <!-- Now Playing -->
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=zahir.ali986&redirect=true">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=zahir.ali986&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0d1117&interchange=true&bar_color=3b82f6&bar_color_cover=false" alt="Now Playing" />
-  </a>
-
-  <!-- Spotify Stats - Uncomment and add your Spotify user ID when ready -->
-  <!--
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986&count=5&unique=true" alt="Recently Played" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://spotify-top-tracks.vercel.app/api/top?id=zahir.ali986&day=0" alt="Top Tracks" width="100%" />
-      </td>
-    </tr>
-  </table>
-  -->
-</div>
-
-<!-- 3D CONTRIBUTION CALENDAR - DIRECT LINK TO SKYLINE -->
-<div align="center">
-  <br>
-  <a href="https://skyline.github.com/zahirali/2023" target="_blank">
-    <img src="https://github.com/zahirali/zahirali/blob/main/skyline_preview.png" alt="3D Contribution Calendar" width="600" />
   </a>
 </div>
 
