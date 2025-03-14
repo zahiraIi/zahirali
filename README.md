@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/header.svg" width="100%" alt="Header" />
+  <img src="header.svg" width="100%" alt="Header" />
 </div>
 
 <!-- INTRODUCTION WITH TYPING ANIMATION -->
@@ -13,10 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <br><br>
   <!-- Profile image with circular crop and border using HTML -->
-  <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/assets/profile.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
+  <img src="assets/profile.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
   <br><br>
   <h3 align="center">
-    math & cs @ <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/assets/ucsd_logo.png" width="30px" style="vertical-align:middle"> UCSD
+    math & cs @ <img src="assets/ucsd_logo.png" width="30px" style="vertical-align:middle"> UCSD
   </h3>
 </div>
 
@@ -46,7 +46,7 @@
 <div align="center">
   <br><br>
   <a href="https://skyline.github.com/zahirali/2023" target="_blank">
-    <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/dist/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+    <img src="https://github.com/zahirali/zahirali/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
   </a>
 </div>
 
@@ -113,5 +113,5 @@
 
 <!-- FOOTER WAVE ANIMATION -->
 <div align="center">
-  <img src="https://github.com/zahirali/zahirali/blob/main/bottom_wave.svg" width="100%" alt="Bottom Wave" />
+  <img src="bottom_wave.svg" width="100%" alt="Bottom Wave" />
 </div>
