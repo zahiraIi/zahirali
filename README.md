@@ -1,5 +1,3 @@
-# Hi 👋, I'm Zahir Ali
-
 <div align="center">
   
   <!-- Using an external SVG hosting service for the header -->
@@ -9,8 +7,8 @@
   
   ![Profile Views](https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat)
   
-  <!-- Using direct raw GitHub URL for profile image -->
-  <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
+  <!-- Using direct reference to assets folder -->
+  <img src="assets/profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
   
   <!-- UCSD logo moved to after the text per request -->
   ### math & cs @ UCSD <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/ucsd_logo.png" width="30" style="vertical-align: middle;">
