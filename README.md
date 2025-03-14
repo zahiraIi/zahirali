@@ -1,13 +1,14 @@
-<h1 align="left">Hey 👋 My name is Zahir Ali.</h1>
-
-###
-
-<p align="left">studying math-cs @ ucsd</p>
-
-###
-
 <div align="center">
-  <img height="200" src="https://i.postimg.cc/s20D1Hzp/Zoom-Out-Image.png"  />
+  
+  ![Header](https://github.com/zahirali/zahirali/blob/main/header.svg)
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+My+name+is+Zahir+Ali;Welcome+to+my+GitHub!;Math+%26+CS+Student;Developer+%26+Designer)](https://git.io/typing-svg)
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat)
+  
+  <img src="assets/profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
+  
+  ### math & cs @ UCSD <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/ucsd_logo.png" width="30" style="vertical-align: middle;">
 </div>
 
 ###
@@ -16,7 +17,7 @@
 
 ###
 
-<p align="left">- 🔭 I'm currently working on SJSU's ASCE Website<br>- 🌱 I'm currently learning tailwind css, python, machine learning, data structures<br>- 👯 I'm looking to collaborate on fullstack, gen ai, or any cool projects<br>- 💬 Ask me about anything automotive related!<br>- 📫 How to reach me: z5ali@ucsd.edu<br>- 📄 My resume: [Resume Link](https://my-resume92.tiiny.site)</p>
+<p align="left">- 🔭 I'm currently working on SJSU's ASCE Website<br>- 🌱 I'm currently learning tailwind css, python, machine learning, data structures<br>- 👯 I'm looking to collaborate on fullstack, gen ai, or any cool projects<br>- 💬 Ask me about anything automotive related!<br>- 📫 How to reach me: z5ali@ucsd.edu<br>- 📄 My resume: (https://my-resume92.tiiny.site)</p>
 
 ###
 
@@ -53,20 +54,20 @@
 
 ###
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3B82F6&random=false&width=435&lines=My+Spotify+Vibe+%F0%9F%8E%A7;Recently+Played+Tracks;What+I'm+Listening+To)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&random=false&width=435&lines=My+Spotify+Vibe+%F0%9F%8E%A7;Recently+Played+Tracks;What+I'm+Listening+To)](https://git.io/typing-svg)
 
 <div align="center">
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986)
+  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986)](https://open.spotify.com/user/zahir.ali986)
   
 </div>
 
-###
+## My Coding Activity
 
-<img src="https://raw.githubusercontent.com/zahiraIi/zahiraIi/output/snake.svg" alt="Snake animation" />
-
-###
-
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+<div align="center">
+  
+  ![GitHub Snake Animation](https://github.com/zahirali/zahirali/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
 
 ###
