@@ -53,14 +53,20 @@
 
 ###
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3B82F6&random=false&width=435&lines=My+Spotify+Vibe+%F0%9F%8E%A7;Recently+Played+Tracks;What+I'm+Listening+To)](https://git.io/typing-svg)
+
 <div align="center">
-  <a href="https://open.spotify.com/user/zahir.ali986">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986)
+  
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/zahiraIi/zahiraIi/output/snake.svg" alt="Snake animation" />
+
+###
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
 
 ###
