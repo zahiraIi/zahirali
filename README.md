@@ -13,10 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <br><br>
   <!-- Profile image with circular crop and border using HTML -->
-  <img src="https://i.postimg.cc/NfSLXBfg/zahir-profile.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
+  <img src="./assets/profile.jpg" width="200" height="200" style="border-radius:50%; object-fit:cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
   <br><br>
   <h3 align="center">
-    math & cs @ <img src="https://upload.wikimedia.org/wikipedia/en/thumb/4/44/University_of_California%2C_San_Diego_seal.svg/1200px-University_of_California%2C_San_Diego_seal.svg.png" width="30px" style="vertical-align:middle"> UCSD
+    math & cs @ <img src="./assets/ucsd_logo.png" width="30px" style="vertical-align:middle"> UCSD
   </h3>
 </div>
 
