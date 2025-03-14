@@ -8,19 +8,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      
+      - uses: actions/checkout@v3
+
       - name: Generate Snake
-        uses: Platane/snk@master
+        uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: zahirali
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
       - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7.8.0
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
           message: 'Generate Contribution Snake'
-          add: 'dist/github-contribution-grid-snake.svg' 
+          add: 'dist' 
