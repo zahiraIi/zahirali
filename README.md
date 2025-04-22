@@ -1,8 +1,6 @@
 <div align="center">
-  
-  ![Header](https://github.com/zahirali/zahirali/blob/main/header.svg)
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+My+name+is+Zahir+Ali;Welcome+to+my+GitHub!;Math+%26+CS+Student;Developer+%26+Designer)](https://git.io/typing-svg)
+    
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+My+name+is+Zahir+Ali;Welcome+to+my+GitHub!;CogsSci+%26+specializing+in+Neuroscience+Student;Developer+%26+Designer)](https://git.io/typing-svg)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=zahirali&label=Profile%20views&color=0e75b6&style=flat)
   
