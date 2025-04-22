@@ -52,22 +52,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zahiraIi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-###
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&random=false&width=435&lines=My+Spotify+Vibe+%F0%9F%8E%A7;Recently+Played+Tracks;What+I'm+Listening+To)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=zahir.ali986)](https://open.spotify.com/user/zahir.ali986)
-  
-</div>
-
-## My Coding Activity
-
-<div align="center">
-  
-  ![GitHub Snake Animation](https://github.com/zahirali/zahirali/blob/output/github-contribution-grid-snake-dark.svg)
-  
-</div>
-
-###
