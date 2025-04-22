@@ -8,7 +8,7 @@
   
   <img src="assets/profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
   
-  ### math & cs @ UCSD <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/ucsd_logo.png" width="30" style="vertical-align: middle;">
+  ### cog sci w/specialization in neuroscience @ UCSD <img src="https://raw.githubusercontent.com/zahirali/zahirali/main/ucsd_logo.png" width="30" style="vertical-align: middle;">
 </div>
 
 ###
