@@ -1,9 +1,5 @@
 <div align="center">
     
-  ### Zahir Ali
-    
-  <img src="85E78D80-40ED-4DB9-8FD1-9C94637BB960.PNG" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
-  
   ### cog sci w/specialization in neuroscience @ UCSD </div>
 
 ###
