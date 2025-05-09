@@ -2,7 +2,7 @@
     
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hey+%F0%9F%91%8B+My+name+is+Zahir+Ali;Welcome+to+my+GitHub!;CogsSci+%26+specializing+in+Neuroscience+Student;Developer+%26+Designer)](https://git.io/typing-svg)
     
-  <img src="assets/profile.png" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
+  <img src="85E78D80-40ED-4DB9-8FD1-9C94637BB960.PNG" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 3px solid #3b82f6" alt="Zahir Ali" />
   
   ### cog sci w/specialization in neuroscience @ UCSD </div>
 
