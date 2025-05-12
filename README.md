@@ -1,6 +1,6 @@
 <div align="center">
     
-  ### cog sci w/specialization in neuroscience @ UCSD </div>
+  ### cog sci w/ specialization in machine learning @ UCSD </div>
 
 ###
 
